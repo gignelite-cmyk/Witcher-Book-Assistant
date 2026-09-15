@@ -1,5 +1,6 @@
 # 🐺 Witcher Book Assistant
 A lightweight desktop overlay tool designed for readers of *The Witcher* book series. It captures a screen excerpt via a shortcut, sends it to Google's Gemini AI, and instantly provides deep lore, definitions, and context matching the book's language—all without spoilers!
+---
 ## ✨ Features
 - **Instant Screenshot Lookup**: Trigger a capture with a side mouse button (`X1`) and optionally specify a target word.
 - **AI-Powered Analysis**: Powered by `google-genai` (Gemini Flash model) structured strictly into:
