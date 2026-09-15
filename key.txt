@@ -1,0 +1,1 @@
+Paste your API key from https://aistudio.google.com/api-keys without any extra characters.
