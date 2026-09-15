@@ -21,4 +21,4 @@ A lightweight desktop overlay tool designed for readers of *The Witcher* book se
 - Python 3.8+
 - Required Python libraries:
   ```bash
-  pip install google-genai pillow pynput
+  python install google-genai pillow pynput
